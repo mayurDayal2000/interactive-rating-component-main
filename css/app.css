@@ -52,6 +52,7 @@ p {
 .thanks-card {
   padding: 1.5rem;
   padding-block-end: 2rem;
+  border-radius: .875rem;
 }
 
 .thanks-card {
